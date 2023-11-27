@@ -4,28 +4,28 @@
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/jacksonwsaguiar/ponderada5/new/main?readme=1
+    git clone https://github.com/jacksonwsaguiar/ponderada5
     ```
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd ponderada4
+    cd ponderada5
     ```
 
 3. Instale as dependências:
     ```bash
-    pip install gradio langchain
+    pip install gradio langchain sentence-transformers==2.2.1
     ```
     
 ## Executando o projeto
 
 Para executar o chatbot, use o seguinte comando:
     ```bash
-    python3 chat.py
+    python3 chat_context.py
     ```
 
 ## Demonstração em Vídeo
 
 Demonstração completa do funcionamento:
-https://drive.google.com/file/d/1n4k3b6_7FSJBuOas8gHUvF4Nvky75wWG/view?usp=sharing
+https://drive.google.com/file/d/1AHc12GY5cv0ri_lKc7O1AnWkYY6RwLap/view?usp=sharing
 
